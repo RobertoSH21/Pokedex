@@ -1,0 +1,134 @@
+.cen{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+}
+section{
+    background: rgb(241, 78, 78);
+    height: 600px;
+    width: 800px;
+}
+.mov{
+    position: relative;
+    left: 235px;
+}
+
+.cenimg{
+    background: rgb(218, 203, 203);
+    border-radius: 10% 10% 10% 10%;
+    position: relative;
+    width: 250px;
+    height: 250px;
+    left: 75px;
+}
+
+.bar{
+    background: red;
+    position: absolute;
+    border-radius: 30% 30% 30% 30%;
+    width: 80px;
+    height: 15px;
+    top: 350px;
+    left: 100px;
+}
+
+.bar2{
+    background: rgb(52, 83, 223);
+    position: absolute;
+    border-radius: 30% 30% 30% 30%;
+    width: 80px;
+    height: 15px;
+    top: 350px;
+    left: 200px;
+}
+
+.circub{
+    background: rgb(4, 5, 5);
+    position: absolute;
+    border-radius: 100%;
+    width: 53px;
+    height: 53px;
+    left: 18px;
+    top: 345px;
+}
+
+.circub2{
+    background: rgba(255, 255, 255, 0.158);
+    position: absolute;
+    border-radius: 100%;
+    width: 43px;
+    height: 43px;
+    left: 26px;
+    top: 347px;
+}
+
+.textbar{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 26px;
+    font-weight: bold;
+    position: absolute;
+    top: 365px;
+    left: 90px;
+}
+
+.cenb{
+    position: relative;
+    top: 380px;
+    left: 90px;
+}
+
+.cenbo{
+    position: relative;
+    top: 135px;
+    left: 115px;
+}
+
+.fondoimg{
+    background: white;
+    border-radius: 5% 5% 5% 5%;
+    position: relative;
+    left: 25px;
+    top: 25px;
+    height: 200px;
+    width: 200px;
+}
+
+.circu{
+    background: white;
+    position: absolute;
+    border-radius: 100%;
+    width: 60px;
+    height: 60px;
+    left: 10px;
+    top: 10px;
+}
+
+.circu2{
+    background: rgb(31, 122, 182);
+    position: absolute;
+    border-radius: 100%;
+    width: 47px;
+    height: 47px;
+    left: 18px;
+    top: 15px;
+}
+
+.circu3{
+    background: rgb(96, 225, 248);
+    position: absolute;
+    border-radius: 100%;
+    width: 36px;
+    height: 36px;
+    left: 21px;
+    top: 17px;
+}
+
+.circu4{
+    background: rgb(192, 222, 250);
+    position: absolute;
+    border-radius: 100%;
+    width: 20px;
+    height: 20px;
+    left: 26px;
+    top: 17px;
+}
